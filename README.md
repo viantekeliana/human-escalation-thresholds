@@ -1,5 +1,6 @@
 # human-escalation-thresholds
-Will give 
+Small-scale simulations exploring how adjustable accuracy thresholds and bounded verification depth impact cost, latency, and error rates in non-critical inference pipelines.
+
 # Human Escalation Thresholds
 
 Exploratory notes and experiments on determining when automated systems
