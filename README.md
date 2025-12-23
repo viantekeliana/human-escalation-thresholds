@@ -41,6 +41,46 @@ It is an exploration of decision boundaries.
 
 Early-stage conceptual work and lightweight experiments.
 
-## License
+## Human-Escalation-Thresholds
+DUAL LICENSE
+Version 1.0
 
-MIT
+Copyright (c) [2025]
+[Rodney Manyakaidze/ Keliana Vianté on Facebook]
+
+--------------------------------------------------
+NON-COMMERCIAL LICENSE (FREE)
+--------------------------------------------------
+
+Permission is hereby granted to any individual or organization to view,
+use, reproduce, and modify this work for non-commercial purposes only,
+including research, education, evaluation, and personal use.
+
+Non-commercial use explicitly excludes any use that:
+- is part of a product or service offered for sale
+- generates revenue directly or indirectly
+- provides commercial, competitive, or strategic advantage
+- is used within a for-profit organization beyond evaluation or research
+
+Attribution must be preserved.
+
+This license does not grant the right to sublicense this work for
+commercial purposes.
+
+--------------------------------------------------
+COMMERCIAL LICENSE (PAID)
+--------------------------------------------------
+
+Any commercial use of this work requires a separate, explicit
+commercial license agreement.
+
+Commercial use includes, but is not limited to:
+- integration into commercial software or services
+- use in AI systems deployed for business purposes
+- consulting, advisory, or professional services
+- internal use within for-profit organizations beyond evaluation
+- derivative works used commercially
+
+To obtain a commercial license, contact:
+
+[viantekeliana@gmail.com Keliana Vianté on Facebook]
